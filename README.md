@@ -1,7 +1,6 @@
 # 4.Execution_of_NetworkCommands
 
 Name: ABDUL RAWOOF
-
 Reg No: 212224230003
 ## AIM 
 Use of Network commands in Real Time environment
